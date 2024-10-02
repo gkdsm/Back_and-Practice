@@ -11,3 +11,6 @@
 
 상품판매는 판매코드, 판매처, 판매일자를 관리해야 하고 판매처는 고객일수도 회사일 수도 있다.
 고객은 고객코드, 고객명, 연락처를 관리한다. 회사는 회사코드, 회사명, 회사 연락처를 관리한다.
+
+![캡처1](https://github.com/user-attachments/assets/7860af3e-4ae2-491d-985b-3152b87156b0)
+![캡처2](https://github.com/user-attachments/assets/ae535e6f-2803-428d-bd0c-214b8fa3d7cf)
