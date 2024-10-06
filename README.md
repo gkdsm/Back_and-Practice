@@ -1,4 +1,4 @@
-# Back_and-Practice
+# Jewelry Store
 
 프로그램 개요
 주얼리가게 관리 시스템
